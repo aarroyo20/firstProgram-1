@@ -1,0 +1,15 @@
+{
+    "name": "kwilliams/first-program",
+    "type": "project",
+    "require-dev": {
+        "phpunit/phpunit": "^8.0"
+    },
+    "license": "mit",
+    "authors": [
+        {
+            "name": "Keith Williams",
+            "email": "keith@webizly.com"
+        }
+    ],
+    "require": {}
+}
